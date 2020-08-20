@@ -19,6 +19,10 @@ Here are the list of simple beginner projects in js that can help you understand
 * Just JavaScript Click Counter Project
 * JavaScript Word Guessing Hangman Game Project
 * Image Popup Window Project
+* Click Shape Game Project
+* High Low Card Game Project
+* Click Popper Game JavaScript Project
+* Pattern Matching Game JavaScript Project
 
 ## Contrubution
 If you have any idea in your mind that could help beginners by doing a project please dont hesitate to contribute your pull request is welcome. Thank you very much
