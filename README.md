@@ -13,6 +13,12 @@ Here are the list of simple beginner projects in js that can help you understand
 * Clock
 * Tip Calculator
 * Login Authentication
+* JavaScript Car Game Project
+* Input Field Character Counter Project
+* Element Scrolling Content Code Snippet Project
+* Just JavaScript Click Counter Project
+* JavaScript Word Guessing Hangman Game Project
+* Image Popup Window Project
 
 ## Contrubution
 If you have any idea in your mind that could help beginners by doing a project please dont hesitate to contribute your pull request is welcome. Thank you very much
